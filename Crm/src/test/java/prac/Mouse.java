@@ -26,6 +26,6 @@ public static void main(String[] args)
 	act.moveToElement(ele).perform();
 	//Actions act1=new Actions(driver);
 	act.click(ele1).perform();
-
+dri;
 }
 }
